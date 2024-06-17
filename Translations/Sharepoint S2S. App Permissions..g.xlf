@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Sharepoint S2S. App Permissions.">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1725178557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725178557 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Content - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725178557 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Content - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725178557 - Field 184466017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relative File Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Content - Field Relative File Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 1634743294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorizaton Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Authorizaton Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 843993214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Authrization Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Azure Authrization Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 3516818378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure Authrization URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Azure Authrization URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 1846567327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Certificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 3879241928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Client Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 593885934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Scope - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 1339282305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Folder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Sharepoint Folder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 2016496158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Sharepoint URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 1579844176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tenant</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Tenant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2477171399 - Field 3907316932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Expiration DT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SSC Sharepoint Setup - Field Token Expiration DT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 612621533 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SSC API Mgt. - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 612621533 - NamedType 2185186290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuportted content to sned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SSC API Mgt. - NamedType UnsupportedContentToSendErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3400567718 - NamedType 1929151538" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Management error:\%1\%2\%3</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpStatusCode, %2 = ErrorMessage, %3 = ResponseReasonPhrase</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SSC Sharepoint Mgt. - NamedType DiagErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3400567718 - NamedType 1733285004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File not found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SSC Sharepoint Mgt. - NamedType FileNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Control 184466017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Relative File Path field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Control Relative File Path - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 1219696420 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete File From Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action DeleteFileFromSharepoint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 1219696420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete File From Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action DeleteFileFromSharepoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 3404617983 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File From Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action DownloadFileFromSharepoint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 3404617983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download File From Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action DownloadFileFromSharepoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 2933254657 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload File to Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action UploadFileToSharepoint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1725178557 - Action 2933254657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload File to Sharepoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Content - Action UploadFileToSharepoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 1634743294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Authorizaton Type field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Authorizaton Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 4013612486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control CertificatePassword - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 4013612486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control CertificatePassword - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 1522670793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate Uploaded</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control CertificateUploaded - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 1522670793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate Uploaded</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control CertificateUploaded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 3879241928 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Client Id field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Client Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 4069789961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Secret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control ClientSecret - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 4069789961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Secret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control ClientSecret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 843993214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Azure Authrization Key field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Azure Authrization Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 3516818378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Azure Authrization URL field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Azure Authrization URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 593885934 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Scope field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Scope - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 1339282305 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sharepoint Folder field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Sharepoint Folder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 2016496158 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sharepoint URL field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Sharepoint URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Control 1579844176 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tenant field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Control Tenant - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Action 2563259684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Action SharepointContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Action 2563259684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sharepoint Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Action SharepointContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Action 694791014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Action UploadCerificate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2477171399 - Action 694791014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SSC Sharepoint Setup - Action UploadCerificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2257442709 - EnumValue 1090384498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SSC Auth Type - EnumValue Authorization Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2257442709 - EnumValue 1846567327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SSC Auth Type - EnumValue Certificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2257442709 - EnumValue 4210937226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Certificate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SSC Auth Type - EnumValue Custom Certificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2847400407 - EnumValue 4069789961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClientSecret</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SSC Secret Type - EnumValue ClientSecret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2847400407 - EnumValue 1196058504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomAccessToken</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SSC Secret Type - EnumValue CustomAccessToken - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

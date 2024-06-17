@@ -1,0 +1,32 @@
+{
+  "id": "96f3bf1c-9474-4176-9296-a5942a1dd7c6",
+  "name": "Sharepoint S2S. App Permissions.",
+  "publisher": "Volodymyr Dvernytskyi",
+  "version": "1.0.0.0",
+  "brief": "https://vld-nav.com/",
+  "description": "Demonstration of working with Sharepoint with different authorization types.",
+  "privacyStatement": "https://vld-nav.com/",
+  "EULA": "https://vld-nav.com/",
+  "help": "https://vld-nav.com/",
+  "url": "https://vld-nav.com/",
+  "logo": "./logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 81771,
+      "to": 81800
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://vld-nav.com/",
+  "runtime": "13.0",
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy":
+    {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+    }
+}
