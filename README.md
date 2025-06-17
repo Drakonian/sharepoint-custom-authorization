@@ -1,7 +1,7 @@
 # Sharepoint Service to Service Authorization. Integration with Business Central. No user permissions.
 I think integrating Sharepoint into Business Central is a fairly common request. The standard library already supports some level of Sharepoint/OneDrive integration out of the box, but it is quite limited. What if we need more advanced logic? In that case, we can use Sharepoint Interfaces from the System Application! But did you know that this will only work if the user has permissions on Sharepoint? Regardless of whether we are using Microsoft Entra Application, it all comes down to the authorization that Sharepoint Interfaces use by default. Let's dive in and understand this better.
 
-https://vld-nav.com/sharepoint-custom-authorization
+https://vld-bc.com/sharepoint-custom-authorization
 
 ![image](https://github.com/Drakonian/sharepoint-custom-authorization/assets/16802407/11d0497b-eff5-4307-8966-efedd5154d2e)
 
